@@ -1,0 +1,2 @@
+# SharedCoin
+SharedCoin CryptoToken
